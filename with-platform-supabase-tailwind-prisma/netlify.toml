@@ -1,6 +1,7 @@
 [build]
-  command = "npm run build"
+  base = "with-platform-supabase-tailwind-prisma"
   publish = ".next"
+  command = "pnpm build"
 
 [[plugins]]
   package = "@netlify/next"
