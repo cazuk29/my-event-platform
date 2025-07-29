@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "@netlify/next": "^1.4.9",
     "@netlify/plugin-nextjs": "^5.11.6"
+  },
+  "devDependencies": {
+    "@netlify/next": "^1.4.9"
   }
 }
