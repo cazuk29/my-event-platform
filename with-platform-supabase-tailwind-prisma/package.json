@@ -76,6 +76,7 @@
     "zod": "^3.23.7"
   },
   "devDependencies": {
+    "@netlify/next": "^1.4.9",
     "@next/eslint-plugin-next": "^14.2.3",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/eslint": "^8.56.2",
